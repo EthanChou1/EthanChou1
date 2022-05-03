@@ -1,6 +1,11 @@
 Hi, I’m Ethan Chou, a Computer Science Major at Southern Methodist University
 - How to reach me: echou@smu.edu
 
+### LinkedIn:
+[<img align="left" alt="Gouldilocks | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+
+<br />
+
 ### Languages and Tools:
 
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />][cpluspluswebsite]
