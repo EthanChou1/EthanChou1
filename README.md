@@ -7,10 +7,6 @@ Hi, I’m Ethan Chou, a Computer Science Major at Southern Methodist University
 
 <br />
 
-### My favorite project:
-https://github.com/EthanChou1/Search-Engine
-
-<br />
 
 ### Languages and Tools:
 
@@ -22,6 +18,14 @@ https://github.com/EthanChou1/Search-Engine
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 [<img align="left" alt="cmake" width="26px" src="https://static-00.iconduck.com/assets.00/cmake-icon-512x511-fvtgv3ne.png" />][cmake]
+<br />
+
+### My favorite project:
+
+[<img align="left" alt="searchEngine" src="https://github-readme-stats.vercel.app/api/pin/?username=EthanChou1&repo=Search-Engine" />][searchEngine]
+
+<br />
+
 
 [vim]: https://www.vim.org
 [website]: https://github.com/EthanChou1
@@ -35,7 +39,9 @@ https://github.com/EthanChou1/Search-Engine
 [terminal]: https://en.wikipedia.org/wiki/Linux_console
 [cmake]: https://cmake.org
 [linkedin]: https://www.linkedin.com/in/ethan-chou-241613227/
+[searchEngine]: https://github.com/EthanChou1/Search-Engine
 <!---
 EthanChou1/EthanChou1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
