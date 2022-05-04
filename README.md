@@ -22,7 +22,7 @@ Hi, I’m Ethan Chou, a Computer Science Major at Southern Methodist University
 
 ### GitHub Stats:
 
-![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EthanChou1&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&)
+![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EthanChou1&show_icons=true&count_private=true&theme=tokyonight&)
 
 
 ### My favorite project:
