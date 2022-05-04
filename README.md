@@ -20,6 +20,11 @@ Hi, I’m Ethan Chou, a Computer Science Major at Southern Methodist University
 [<img align="left" alt="cmake" width="26px" src="https://static-00.iconduck.com/assets.00/cmake-icon-512x511-fvtgv3ne.png" />][cmake]
 <br />
 
+### GitHub Stats:
+
+![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EthanChou1&show_icons=true&theme=radical)
+
+
 ### My favorite project:
 
 [<img align="left" alt="searchEngine" src="https://github-readme-stats.vercel.app/api/pin/?username=EthanChou1&repo=Search-Engine" />][searchEngine]
